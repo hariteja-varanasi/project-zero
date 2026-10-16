@@ -1,0 +1,12 @@
+[submodule "tf-infra"]
+	path = tf-infra
+	url = git@github.com:hariteja-varanasi/tf-infra.git
+	branch = master
+[submodule "webapp-frontend"]
+	path = webapp-frontend
+	url = git@github.com:hariteja-varanasi/webapp-frontend.git
+	branch = master
+[submodule "webapp-backend"]
+	path = webapp-backend
+	url = git@github.com:hariteja-varanasi/webapp-backend.git
+	branch = master
